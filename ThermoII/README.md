@@ -4,3 +4,4 @@ This folder contains the works I created for Concordia University's MECH 351 The
 
 ![image](https://github.com/ZachG1339/ZG-Miscelaneous-Hardware/assets/121523537/2c797641-37e2-4402-a2ce-06dfb5acf9c6)
 
+Note: the thermoelectric car does not include the motor (ABRA MOT-280), Teacup Candle, or aluminum foil + Flex seal insulation
